@@ -1,8 +1,0 @@
-C:\Users\44771\Desktop\DiceRollGame\DiceRollGame\bin\Debug\DiceRollGame.exe.config
-C:\Users\44771\Desktop\DiceRollGame\DiceRollGame\bin\Debug\DiceRollGame.exe
-C:\Users\44771\Desktop\DiceRollGame\DiceRollGame\bin\Debug\DiceRollGame.pdb
-C:\Users\44771\Desktop\DiceRollGame\DiceRollGame\obj\Debug\DiceRollGame.csproj.AssemblyReference.cache
-C:\Users\44771\Desktop\DiceRollGame\DiceRollGame\obj\Debug\DiceRollGame.csproj.SuggestedBindingRedirects.cache
-C:\Users\44771\Desktop\DiceRollGame\DiceRollGame\obj\Debug\DiceRollGame.csproj.CoreCompileInputs.cache
-C:\Users\44771\Desktop\DiceRollGame\DiceRollGame\obj\Debug\DiceRollGame.exe
-C:\Users\44771\Desktop\DiceRollGame\DiceRollGame\obj\Debug\DiceRollGame.pdb
